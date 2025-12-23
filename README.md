@@ -1,6 +1,6 @@
 # Claude Skills
 
-Skills for Claude AI agent workflows.
+Skills that teach Claude how to perform tasks in a repeatable way.
 
 ## Skills
 
