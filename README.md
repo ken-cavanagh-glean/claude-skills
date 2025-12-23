@@ -1,6 +1,6 @@
-# Agent Skills
+# Claude Skills
 
-Claude Skills for AI agent workflows.
+Skills for Claude AI agent workflows.
 
 ## Skills
 
